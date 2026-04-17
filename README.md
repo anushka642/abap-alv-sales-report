@@ -1,36 +1,25 @@
 # ABAP ALV Sales Report
 
 ## Description
-This project is a concept-based implementation of an ABAP ALV (ABAP List Viewer) report used for analyzing sales data.
+This project demonstrates a concept-based implementation of an ABAP ALV (ABAP List Viewer) report used for analyzing sales data.
 
 ## Features
-- Fetches data from multiple tables (VBAK, VBAP, KNA1)
-- Selection screen for filtering (Date, Customer)
-- Displays data using ALV Grid format
-- Interactive hotspot click on Sales Order
-- Structured and modular ABAP code
+- Data retrieval using multiple tables (VBAK, VBAP, KNA1)
+- Selection screen for user input (Date, Customer range)
+- ALV Grid style output (simulated)
+- Interactive hotspot on Sales Order
+- Clean and modular ABAP code
 
-## Project Structure
-abap-alv-sales-report/
-│
-├── code/
-│   └── Z_SALES_ALV_REPORT.abap
-│
-├── screenshots/
-│   ├── selection_screen.png
-│   ├── alv_output.png
-│
-├── documentation/
-│   └── report.pdf
-│
-└── README.md
+## Files Included
+- Z_SALES_ALV_REPORT.abap → Main ABAP report program
+- README.md → Project description
 
 ## Technologies Used
-- SAP ABAP
+- SAP ABAP (Concept-based)
 - ALV Grid
 
 ## Note
-This project is created for academic purposes without SAP system access. Output screens are simulated.
+This project is created without access to SAP system. The ALV output is simulated for demonstration purposes.
 
 ## Author
 Anushka
