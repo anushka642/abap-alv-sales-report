@@ -12,14 +12,16 @@ This project demonstrates a concept-based implementation of an ABAP ALV (ABAP Li
 
 ## Files Included
 - Z_SALES_ALV_REPORT.abap → Main ABAP report program
+- selection_screen.html → Mock UI for selection screen
 - README.md → Project description
 
 ## Technologies Used
 - SAP ABAP (Concept-based)
 - ALV Grid
+- HTML (for UI simulation)
 
 ## Note
-This project is created without access to SAP system. The ALV output is simulated for demonstration purposes.
+This project is created without access to SAP system. The ALV output and selection screen are simulated for demonstration purposes.
 
 ## Author
 Anushka
